@@ -13,7 +13,8 @@ Explore a vast array of stunning images with ease, powered by the Unsplash API. 
 - **Infinite Scroll**: Images are loaded dynamically as the user scrolls down the page, providing a seamless browsing experience.
 
 
-![Screenshot 2024-04-28 at 2 56 18 PM](https://github.com/Harsh-Vardhan-Upadhyay/VisioAura/assets/91301778/53df2959-c1da-45c8-82ff-6253581a7e24)
+![Screenshot 2024-04-28 at 3 38 29 PM](https://github.com/Harsh-Vardhan-Upadhyay/VisioAura/assets/91301778/95d0058f-33d7-498d-9e4c-6f127202f9d5)
+
 
 
 ## Technologies Used
